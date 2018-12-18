@@ -62,4 +62,8 @@
     <ProjectReference Include="..\Microsoft.Bot.Builder\Microsoft.Bot.Builder.csproj" />
   </ItemGroup>
 
+  <ItemGroup>
+    <Folder Include="AzureDashboards\" />
+  </ItemGroup>
+
 </Project>
